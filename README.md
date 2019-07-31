@@ -1,6 +1,5 @@
-# ![](https://cdn.rawgit.com/date-fns/date-fns/c5bcd92d04f14da194e6298101a6509b1c3b30f0/docs/logo.svg) date-fns
+JASON MAYERS FORK MUTHA FRUFFER
 
-[🙏 **Please help us to make the best date library for JavaScript. We need your support!**](https://opencollective.com/date-fns)
 
 ⚠️ **Warning**: the current master represents v2 pre-release version of the library. [See v1 branch](https://github.com/date-fns/date-fns/tree/v1).
 
